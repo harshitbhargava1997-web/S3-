@@ -1,3 +1,0 @@
-"""
-Teacher Learning modules.
-"""
